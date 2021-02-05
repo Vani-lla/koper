@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/koper/static/css/main.86738e62.chunk.css",
+    "main.js": "/koper/static/js/main.bc30f85d.chunk.js",
+    "main.js.map": "/koper/static/js/main.bc30f85d.chunk.js.map",
+    "runtime-main.js": "/koper/static/js/runtime-main.07fcedac.js",
+    "runtime-main.js.map": "/koper/static/js/runtime-main.07fcedac.js.map",
+    "static/js/2.7010b29a.chunk.js": "/koper/static/js/2.7010b29a.chunk.js",
+    "static/js/2.7010b29a.chunk.js.map": "/koper/static/js/2.7010b29a.chunk.js.map",
+    "index.html": "/koper/index.html",
+    "static/css/main.86738e62.chunk.css.map": "/koper/static/css/main.86738e62.chunk.css.map",
+    "static/js/2.7010b29a.chunk.js.LICENSE.txt": "/koper/static/js/2.7010b29a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07fcedac.js",
+    "static/js/2.7010b29a.chunk.js",
+    "static/css/main.86738e62.chunk.css",
+    "static/js/main.bc30f85d.chunk.js"
+  ]
+}

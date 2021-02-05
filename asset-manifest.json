@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/koper/static/css/main.3cfb7127.chunk.css",
-    "main.js": "/koper/static/js/main.88a649e6.chunk.js",
-    "main.js.map": "/koper/static/js/main.88a649e6.chunk.js.map",
+    "main.css": "/koper/static/css/main.a60ed159.chunk.css",
+    "main.js": "/koper/static/js/main.fe60bad7.chunk.js",
+    "main.js.map": "/koper/static/js/main.fe60bad7.chunk.js.map",
     "runtime-main.js": "/koper/static/js/runtime-main.07fcedac.js",
     "runtime-main.js.map": "/koper/static/js/runtime-main.07fcedac.js.map",
-    "static/js/2.7010b29a.chunk.js": "/koper/static/js/2.7010b29a.chunk.js",
-    "static/js/2.7010b29a.chunk.js.map": "/koper/static/js/2.7010b29a.chunk.js.map",
+    "static/js/2.2b16dc1f.chunk.js": "/koper/static/js/2.2b16dc1f.chunk.js",
+    "static/js/2.2b16dc1f.chunk.js.map": "/koper/static/js/2.2b16dc1f.chunk.js.map",
     "index.html": "/koper/index.html",
-    "static/css/main.3cfb7127.chunk.css.map": "/koper/static/css/main.3cfb7127.chunk.css.map",
-    "static/js/2.7010b29a.chunk.js.LICENSE.txt": "/koper/static/js/2.7010b29a.chunk.js.LICENSE.txt"
+    "static/css/main.a60ed159.chunk.css.map": "/koper/static/css/main.a60ed159.chunk.css.map",
+    "static/js/2.2b16dc1f.chunk.js.LICENSE.txt": "/koper/static/js/2.2b16dc1f.chunk.js.LICENSE.txt",
+    "static/media/logo.31d89d6c.png": "/koper/static/media/logo.31d89d6c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.07fcedac.js",
-    "static/js/2.7010b29a.chunk.js",
-    "static/css/main.3cfb7127.chunk.css",
-    "static/js/main.88a649e6.chunk.js"
+    "static/js/2.2b16dc1f.chunk.js",
+    "static/css/main.a60ed159.chunk.css",
+    "static/js/main.fe60bad7.chunk.js"
   ]
 }

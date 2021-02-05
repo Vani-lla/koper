@@ -1,11 +1,12 @@
-import './App.css';
+import React from 'react';
+import Navigation from './components/navigation/navigation';
+import MainSlider from './components/mainSlider/mainSlider';
 
-function App() {
+export default function App() {
    return (
-      <div className="App">
-         <h1 className='jd'>Mati to kozak kolega</h1>
+      <div>
+         <h1>Koper main page</h1>
+         <Navigation />
       </div>
-   );
+   )
 }
-
-export default App;

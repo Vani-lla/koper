@@ -1,0 +1,14 @@
+nav {
+   position: fixed;
+   width: 100%;
+   height: 150px;
+   display: grid;
+   grid-template-columns: 15% repeat(3, 1fr) 15%;
+   background-color: red;
+}
+
+
+.main-logo {
+   height: 150px;
+   grid-column: 2;
+}

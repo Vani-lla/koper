@@ -2,4 +2,4 @@
 
 Created by: Igor Kowalczyk
 
-### Previev at: 'https://vani-lla.github.io/koper/'
+### Preview at: 'https://vani-lla.github.io/koper/'

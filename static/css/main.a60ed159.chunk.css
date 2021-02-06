@@ -1,2 +1,0 @@
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#000}*,body{margin:0}*{padding:0;box-sizing:border-box}nav{position:fixed;width:100%;height:150px;display:grid;grid-template-columns:15% repeat(3,1fr) 15%;background-color:red}.main-logo{height:150px;grid-column:2}
-/*# sourceMappingURL=main.a60ed159.chunk.css.map */
